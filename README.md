@@ -6,6 +6,7 @@
 - Business patron menus for roleplay enhancement
 - Easily customizable props, text and locations
 - Dynamic new menu creation tool with `newmenu` command
+- ox/qb-target support, or lib zones
 
 ## Dependencies
 - [ox_lib](https://github.com/overextended/ox_lib)
