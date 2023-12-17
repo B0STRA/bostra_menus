@@ -8,6 +8,7 @@
 - Dynamic new menu creation tool with `newmenu` command
 - ox/qb-target support, or lib zones
 - included drink menu prop, with external ytd for ease of changing texture
+![3899318be1a1497215187bc7727b6e5faa0de0c5](https://github.com/B0STRA/bostra_menus/assets/119994243/f23e6a14-9e58-43ae-8e14-643eedc00653)
 
 ## Dependencies
 - [ox_lib](https://github.com/overextended/ox_lib)
