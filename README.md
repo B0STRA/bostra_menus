@@ -7,6 +7,7 @@
 - Easily customizable props, text and locations
 - Dynamic new menu creation tool with `newmenu` command
 - ox/qb-target support, or lib zones
+- included drink menu prop, with external ytd for ease of changing texture
 
 ## Dependencies
 - [ox_lib](https://github.com/overextended/ox_lib)
