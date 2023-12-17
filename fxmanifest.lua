@@ -30,3 +30,5 @@ files {
 dependencies {
 	'ox_lib'
 }
+
+data_file 'DLC_ITYP_REQUEST' 'stream/prop_drinkmenu.ytyp' 
