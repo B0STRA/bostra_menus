@@ -40,7 +40,7 @@ function StartScene(prop)
 end
 
 function MakeProp(prop, coords, rotation)
-    lib.requestModel(prop)
+    lib.requestModel(prop, 30000)
     local menu = CreateObject(prop, coords.x, coords.y, coords.z, true, false, false)
     SetEntityCoords(menu, coords.x, coords.y, coords.z, false, false, false, false)
     if rotation then
