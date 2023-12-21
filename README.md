@@ -1,6 +1,6 @@
 ![bostra_menus](https://github.com/B0STRA/bostra_appearance/assets/119994243/288d4751-d4f7-4074-940b-05a0a75b8333)
 
-# [Preview](https://streamable.com/xn1go3)
+# [Preview](https://streamable.com/ym8win)
 
 ## Features
 - Business patron menus for roleplay enhancement
