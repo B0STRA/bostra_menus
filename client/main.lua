@@ -68,7 +68,7 @@ RegisterNetEvent('bostra_menus:client:placeProp', function()
     end
     DestroyTargets()
     FormatMenuData(menu)
-    lib.notify({ title = 'Menus:', description = 'Config Data Copied to Clipboard', type = 'success' })
+    lib.notify({ title = 'Menus:', description = 'Config Data Copied to Clipboard', duration = 60000, type = 'success' })
     TriggerEvent('bostra_menus:client:reloadMenu')
     CreateTargets()
 end)
